@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="algorithm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75009824"
+     inkscape:cx="104.65296"
+     inkscape:cy="394.61498"
+     inkscape:window-width="1811"
+     inkscape:window-height="936"
+     inkscape:window-x="1957"
+     inkscape:window-y="9"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect234"
+       width="91.120041"
+       height="32.21386"
+       x="49.68848"
+       y="25.141531" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.79701;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect896"
+       width="51.060242"
+       height="51.060242"
+       x="170.51291"
+       y="57.047668"
+       transform="matrix(0.8350443,0.55018272,-0.8350443,0.55018272,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="93.029938"
+       y="151.7749"
+       id="text1322-3"><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="93.029938"
+         y="151.7749"
+         id="tspan1374-5">Сработало прерывание</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="93.029938"
+         y="158.83046"
+         id="tspan1428">по переполнению</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="93.029938"
+         y="165.886"
+         id="tspan1430">таймера?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers;font-stretch:normal;font-variant:normal"
+       x="53.26247"
+       y="41.269596"
+       id="text1006"><tspan
+         sodipodi:role="line"
+         id="tspan1004"
+         style="stroke-width:1;font-size:5.64444444px;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1"
+         x="53.26247"
+         y="41.269596" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="96.384254"
+       y="35.654823"
+       id="text1322"><tspan
+         sodipodi:role="line"
+         id="tspan1320"
+         style="stroke:none;stroke-width:1"
+         x="96.384254"
+         y="35.654823">Настройка таймера,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="96.384254"
+         y="42.710373"
+         id="tspan1376">настройка пина вывода</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="96.384254"
+         y="49.765923"
+         id="tspan1374">настройка работы UART</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 95.248497,57.35539 5e-6,11.336091"
+       id="path1486" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.52287;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect234-3"
+       width="91.597168"
+       height="18.579885"
+       x="49.449921"
+       y="68.452919" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="96.384262"
+       y="79.204773"
+       id="text1322-6"><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="96.384262"
+         y="79.204773"
+         id="tspan466">Запуск таймера</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 94.925606,113.87512 5e-6,11.33609"
+       id="path1486-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 95.248497,87.323407 5e-6,11.336091"
+       id="path1486-6" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.52287;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect234-3-2"
+       width="91.597168"
+       height="18.579885"
+       x="49.449921"
+       y="97.891769" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="96.384262"
+       y="108.64362"
+       id="text1322-6-9"><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="96.384262"
+         y="108.64362"
+         id="tspan466-1">Ожидание прерывания</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;paint-order:stroke fill markers"
+       d="m 137.38606,153.29236 h 34.71822 l -0.24942,-46.11065 h -30.80777"
+       id="path643" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="153.46559"
+       y="149.44376"
+       id="text1322-6-9-3"><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="153.46559"
+         y="149.44376"
+         id="tspan466-1-6">Нет</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 94.719329,181.4285 5e-6,11.33609"
+       id="path1486-0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.52287;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect234-3-6"
+       width="91.597168"
+       height="18.579885"
+       x="48.920753"
+       y="192.52602" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="95.855095"
+       y="203.27786"
+       id="text1322-6-2"><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="95.855095"
+         y="203.27786"
+         id="tspan466-6">Обработка прерывания</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="105.21167"
+       y="186.40363"
+       id="text1322-6-9-3-1"><tspan
+         sodipodi:role="line"
+         style="stroke:none;stroke-width:1"
+         x="105.21167"
+         y="186.40363"
+         id="tspan466-1-6-8">Да</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;paint-order:stroke fill markers"
+       d="m 140.51793,201.81596 h 52.73839 l -1.41093,-124.0731 h -50.7983"
+       id="path1310"
+       inkscape:export-filename="algorithm.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
