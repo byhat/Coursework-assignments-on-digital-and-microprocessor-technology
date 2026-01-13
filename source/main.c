@@ -6,8 +6,6 @@
 
 #include <xc.h>
 
-#define _XTAL_FREQ 4000000UL  // microcontroller freq 4MHz
-
 void setupUsart(void) {
     // set RC6 as output (TX)
     TRISCbits.TRISC6 = 0;
@@ -92,3 +90,4 @@ void main(void) {
         // all logic in interrupt
     }
 }
+
